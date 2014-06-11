@@ -358,6 +358,12 @@ enterprise, ent
 engineering, eng
     工程，范围比项目小
 
+    registered engineer
+    注册工程师（还有细分专业）
+
+    cost engineer
+    造价工程师
+
 estimate, est
     预计
 
