@@ -66,6 +66,9 @@ approved, apvd
 approved by / checked by / prepared by
     核准/审核/承办
 
+architect, registered architect
+    （注册）建筑师
+
 bank capacity letter, bank conform letter, bcl
     银行资金证明
 
