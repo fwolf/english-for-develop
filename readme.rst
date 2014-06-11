@@ -631,6 +631,9 @@ random, rnd
 random select, rs
     随机抽取
 
+real estate appraiser, rea
+    房地产估价师
+
 reasonable range, rr
     合理范围
 
