@@ -184,6 +184,9 @@ certificate, cert
 certificated by, cert_by
     认证的发证机关/部门
 
+certified planner, urban planner
+    城市规划师。资格证书上的名称是 certified planners。
+
 checker
     审核人，检查人
 
