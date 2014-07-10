@@ -181,6 +181,9 @@ category, cat, ctgy
 certificate, cert
     证书，证明
 
+    organization code certificate
+    组织机构代码证
+
 certificated by, cert_by
     认证的发证机关/部门
 
