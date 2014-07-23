@@ -367,6 +367,9 @@ engineering, eng
     cost engineer
     造价工程师
 
+established time
+    成立时间
+
 estimate, est
     预计
 
@@ -817,9 +820,6 @@ tender submission
 
 three supplies and one leveling, tsaol
     三通一平
-
-time of formation, tof
-    成立时间
 
 time period, tmper
     时间段，时限，周期
