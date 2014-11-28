@@ -673,6 +673,9 @@ required, req, r
 responsible person, rp
     企业负责人
 
+safe and civilized construction
+    安全文明施工（安全生产、文明施工）
+
 satisfaction, sat
     满意
 
