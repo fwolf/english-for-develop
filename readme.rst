@@ -367,6 +367,9 @@ engineering, eng
     cost engineer
     造价工程师
 
+encryption scheme
+    加密方式
+
 established time
     成立时间
 
