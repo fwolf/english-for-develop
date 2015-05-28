@@ -69,6 +69,9 @@ approved by / checked by / prepared by
 architect, registered architect
     （注册）建筑师
 
+award letter
+    中标函，中标通知书
+
 bank capacity letter, bank conform letter, bcl
     银行资金证明
 
@@ -96,7 +99,7 @@ bid opening, bo
 bid section
     招标标段
 
-bid winning notice, bwn
+bid winning notice, bwn (obsolete, use award letter)
     中标通知书
 
 bidder
