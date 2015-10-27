@@ -517,6 +517,18 @@ owner
 opinion
     (评审)意见，评论
 
+people's congress
+    人民代表大会
+
+    The National People's Congress, npc
+        全国人民代表大会
+
+    Standing Committee of the National People's Congress, npcSc
+        全国人民代表大会常务委员会
+
+    The Provincial People's Congress, ppc
+        省人大
+
 percent, pct
     比例（值）
 
